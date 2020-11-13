@@ -1,0 +1,110 @@
+[
+   {
+      "CATEGORY": "Medicinal Syrups",
+      "PRODUCT": "Accuchek",
+      "VITAMIN": "A",
+      "CURRENCY": "INR",
+      "PRICE": "50",
+      "REVIEW": "8/10",
+      "PAYMENT": "COD / ONLINE PAYMENT"
+   },
+   {
+      "CATEGORY": "Medicinal Syrups",
+      "PRODUCT": "Charak",
+      "VITAMIN": "B",
+      "CURRENCY": "INR",
+      "PRICE": "100",
+      "REVIEW": "9/10",
+      "PAYMENT": "COD / ONLINE PAYMENT"
+   },
+   {
+      "CATEGORY": "Medicinal Syrups",
+      "PRODUCT": "Depura",
+      "VITAMIN": "D",
+      "CURRENCY": "INR",
+      "PRICE": "40",
+      "REVIEW": "10/10",
+      "PAYMENT": "COD / ONLINE PAYMENT"
+   },
+   {
+      "CATEGORY": "Medicinal Syrups",
+      "PRODUCT": "CTP",
+      "VITAMIN": "C",
+      "CURRENCY": "INR",
+      "PRICE": "159",
+      "REVIEW": "9/10",
+      "PAYMENT": "COD"
+   },
+   {
+      "CATEGORY": "Medicinal Syrups",
+      "PRODUCT": "Digine",
+      "VITAMIN": "B",
+      "CURRENCY": "INR",
+      "PRICE": "200",
+      "REVIEW": "8/10",
+      "PAYMENT": "COD / ONLINE PAYMENT"
+   },
+   {
+      "CATEGORY": "Medicinal Syrups",
+      "PRODUCT": "Everherb",
+      "VITAMIN": "C",
+      "CURRENCY": "INR",
+      "PRICE": "100",
+      "REVIEW": "8/10",
+      "PAYMENT": "COD / ONLINE PAYMENT"
+   },
+   {
+      "CATEGORY": "Tablets",
+      "PRODUCT": "Kapiva",
+      "VITAMIN": "A",
+      "CURRENCY": "INR",
+      "PRICE": "40",
+      "REVIEW": "9/10",
+      "PAYMENT": "COD / ONLINE PAYMENT"
+   },
+   {
+      "CATEGORY": "Tablets",
+      "PRODUCT": "Liveasy",
+      "VITAMIN": "D",
+      "CURRENCY": "INR",
+      "PRICE": "50",
+      "REVIEW": "8/10",
+      "PAYMENT": "COD / ONLINE PAYMENT"
+   },
+   {
+      "CATEGORY": "Tablets",
+      "PRODUCT": "ecosprin-75mg",
+      "VITAMIN": "A",
+      "CURRENCY": "INR",
+      "PRICE": "25",
+      "REVIEW": "9/10",
+      "PAYMENT": "COD"
+   },
+   {
+      "CATEGORY": "Tablets",
+      "PRODUCT": "Revital",
+      "VITAMIN": "B",
+      "CURRENCY": "INR",
+      "PRICE": "45",
+      "REVIEW": "8/10",
+      "PAYMENT": "COD / ONLINE PAYMENT"
+   },
+   {
+      "CATEGORY": "Tablets",
+      "PRODUCT": "Seacod",
+      "VITAMIN": "B",
+      "CURRENCY": "INR",
+      "PRICE": "35",
+      "REVIEW": "10/10",
+      "PAYMENT": "COD / ONLINE PAYMENT"
+   },
+   {
+      "CATEGORY": "Tablets",
+      "PRODUCT": "Hansaplast",
+      "VITAMIN": "C",
+      "CURRENCY": "INR",
+      "PRICE": "50",
+      "REVIEW": "7/10",
+      "PAYMENT": "COD / ONLINE PAYMENT"
+   }
+]

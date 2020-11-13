@@ -1,0 +1,74 @@
+[
+   {
+      "name": "1. Accuchek",
+      "PRICE": "50",
+      "description": "is a drug administered orally or intravenously and is used for treating chronic gout arthritis.",
+      "sold": "650"
+   },
+   {
+      "name": "2. Charak",
+      "PRICE": "100",
+      "description": "Charak is an antibiotic used for treating certain bacterial infections. It belongs to the class of antibiotics known as fluoroquinolones. It is available in both tablet and suspension(liquid ) form for treating various diseases.",
+      "sold": "900"
+   },
+   {
+      "name": "3. Depura",
+      "PRICE": "40",
+      "description": "Depura a antibiotic belonging to the penicillin group of drugs, which fights bacteria in your body. Amoxicillin is used to reduce the development of drug-resistant bacteria",
+      "sold": "900"
+   },
+   {
+      "name": "4. CTP",
+      "PRICE": "159",
+      "description": "CTP is a mucolytic agent. It is used to treat respiratory disorders linked with viscid or excessive mucus.",
+      "sold": "600"
+   },
+   {
+      "name": "5. Digine",
+      "PRICE": "200",
+      "description": "Digine is a third generation oral cephalosporin, effective against a wide range of sensitive gram-positive, gram-negative",
+      "sold": "950"
+   },
+   {
+      "name": "6. Everherb",
+      "PRICE": "100",
+      "description": "Everherb is a broad-spectrum antibiotic, a bactericidal antibiotic, effective in Gram-positive and Gram-negative bacterial infections.",
+      "sold": "2000"
+   },
+   {
+      "name": "7. Kapiva",
+      "PRICE": "40",
+      "description": "Kapiva is a bactericidal which is active against a wide range of Gram-positive and Gram-negative organisms.",
+      "sold": "2000"
+   },
+   {
+      "name": "8. Liveasy",
+      "PRICE": "50",
+      "description": "Liveasy is an antibiotic belonging a class of drugs called cephalosporins. It is a second-generation cephalosporin antibiotic, which came to the markets of USA in 1977.",
+      "sold": "250"
+   },
+   {
+      "name": "9. ecosprin-75mg",
+      "price": "25",
+      "description": "ecosprin-75mg is an antibiotic belonging to the group of drugs called macrolide antibiotics. It is used to treat certain infections caused by bacteria",
+      "sold": "500"
+   },
+   {
+      "name": "10. Revital",
+      "PRICE": "45",
+      "description": "Revital is a drug used for preventing and treating malaria. The disease is transmitted by the bite of a mosquito. The Chloroquine drug is also used for treating liver disease caused by protozoa.",
+      "sold": "700"
+   },
+   {
+      "name": "11. Seacod",
+      "PRICE": "35",
+      "description": "Seacod is a semi-synthetic macrolide antibiotic, used for treating respiratory and urinary tract, soft tissue infections.",
+      "sold": "750"
+   },
+   {
+      "name": "12. Hansaplast",
+      "PRICE": "50",
+      "description": "Hansaplast is a highly lipophilic, long acting ACE inhibitor.The drug is used for treating blood pressure and congestive heart failure.",
+      "sold": "300"
+   }
+]
